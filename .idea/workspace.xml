@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="569ab7f3-9bc2-4078-b3ab-1395ad272093" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_01/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_02/assest/ijse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_02/assest/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_01/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CSS/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_01/assets/CSS/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_01/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="569ab7f3-9bc2-4078-b3ab-1395ad272093" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +35,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Web Development\CSS\Assignment_02\assest" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Web Development\CSS\Assignment_02\assest\CSS" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640361930915</updated>
-      <workItem from="1640361932630" duration="3579000" />
+      <workItem from="1640361932630" duration="3846000" />
     </task>
     <servers />
   </component>
